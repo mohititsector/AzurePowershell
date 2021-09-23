@@ -1,0 +1,1 @@
+INSERT INTO [dbo].[ServiceEndpoint]([Id],[EndpointUri],[DataGroup],[AuditServiceId]) VALUES (N'9d60c7e7-def6-4c3e-95d9-e9e8871fef4e','https://o365adtadminprod.auditing.trafficmanager.net/AuditPolicySyncServiceV2.svc/rest/UpdateAuditTenantPolicy',N'90138eb9-2b2c-492d-80eb-9d3af51814df','1')

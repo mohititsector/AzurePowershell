@@ -1,0 +1,1 @@
+INSERT INTO [dbo].[DispatcherEndpoint] ([Id],[Endpoint],[DataGroup]) VALUES (N'd89a99e6-0862-498c-a22f-43ca0f58ef9a','https://o365adtdisptmprodnor901.dispatcher.auditing.trafficmanager.net:555/api/dispatcher',N'90138eb9-2b2c-492d-80eb-9d3af51814df')

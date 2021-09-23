@@ -1,0 +1,1 @@
+INSERT INTO [dbo].[DataGroup]([Id],[Name],[Status],[Geo],[Type],[State],[CreationTime],[UpdateTime],[AlertEnabled]) VALUES (N'90138eb9-2b2c-492d-80eb-9d3af51814df', N'dgsvcgolonor901', N'0', N'NOR', N'1', N'1', GETDATE(), GETDATE(), N'1')
